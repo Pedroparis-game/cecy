@@ -1,0 +1,8 @@
+{
+  "name": "Portal Cecy Digital",
+  "description": "Plataforma de sustentabilidade e transição digital para a Escola Estadual Cecy Leite Costa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Alteração de Horário",
+    "data": "2024-05-20",
+    "categoria": "Secretaria",
+    "conteúdo": "Informamos que, devido à reunião pedagógica, as aulas do turno da tarde terminarão 1 hora mais cedo na próxima sexta-feira.",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "Semana de Provas - 2º Trimestre",
+    "data": "2024-06-05",
+    "categoria": "Académico",
+    "conteúdo": "O calendário oficial das provas já está disponível no átrio central. Lembre-se de trazer apenas o material necessário.",
+    "urgente": true
+  },
+  {
+    "id": 3,
+    "titulo": "Campanha de Reciclagem",
+    "data": "2024-05-18",
+    "categoria": "Sustentabilidade",
+    "conteúdo": "A nossa escola iniciou a recolha de pilhas e baterias usadas. Deposite as suas no coletor verde à entrada da secretaria.",
+    "urgente": false
+  }
+]
