@@ -21,7 +21,8 @@ export default function Blog() {
   const getCategoryColor = (category: string) => {
     switch (category) {
       case 'Trabalhos Escolares': return 'bg-rose-100 text-rose-700';
-      case 'Dicas para o Dia a Dia': return 'bg-blue-100 text-blue-700';
+      case 'Eventos Escolares': return 'bg-blue-100 text-blue-700';
+      case 'Uso Consciente': return 'bg-teal-100 text-teal-700';
       case 'Dentro da Sala de Aula': return 'bg-amber-100 text-amber-700';
       case 'Inovação': return 'bg-purple-100 text-purple-700';
       default: return 'bg-emerald-100 text-emerald-700';
